@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\list_text_item.xml",
+        "source": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\res\\layout\\list_text_item.xml"
+    },
+    {
+        "merged": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\activity_speech.xml",
+        "source": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\res\\layout\\activity_speech.xml"
+    },
+    {
+        "merged": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_stylize.xml",
+        "source": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment.xml",
+        "source": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\carmanhui.github.io\\Mobile_Target_Recognition\\tensorflow-master\\tensorflow\\examples\\android\\res\\layout\\activity_camera.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\carmanhui.github.io\Mobile_Target_Recognition\tensorflow-master\tensorflow\examples\android\gradleBuild\intermediates\exploded-aar\org.tensorflow\tensorflow-android\1.10.0-rc0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="911e22328e950687c03a61395aac8e60eacf46e0">
+        <dex dex="D:\carmanhui.github.io\Mobile_Target_Recognition\tensorflow-master\tensorflow\examples\android\gradleBuild\intermediates\pre-dexed\debug\org.tensorflow-tensorflow-android-1.10.0-rc0_c6ceb1159269deed6f4a576d34176079bfdf724c.jar" />
+    </item>
+
+</items>
